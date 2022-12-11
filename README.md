@@ -37,6 +37,8 @@ THEN I exit the application, and the HTML is generated
 
 ![Screenshot](https://github.com/WinnieThomas/Team-Profile-Generator/blob/main/Images/picture1.png?raw=true)
 
+![Screenshot](https://github.com/WinnieThomas/Team-Profile-Generator/blob/main/Images/picture2.png?raw=true)
+
 
 
 
