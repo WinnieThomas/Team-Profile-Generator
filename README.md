@@ -30,10 +30,12 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
-##Vedio Link of the application
+## Vedio Link of the application
 ![Vedio](https://user-images.githubusercontent.com/111534031/206927596-7457bddf-cfae-44a9-90b7-dee4394fb888.mp4)
 
 ## Screenshots of the application
+
+![Screenshot](https://github.com/WinnieThomas/Team-Profile-Generator/blob/main/Images/picture1.png?raw=true)
 
 
 
