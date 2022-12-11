@@ -10,6 +10,8 @@ const managers= [];
 const engineers = [];
 const interns = [];
 
+
+//questions to take input from the user to build a team
 const doMenuQuestions = () => {
     inquirer.prompt([
         {
@@ -39,6 +41,8 @@ const doMenuQuestions = () => {
                     break;
         }
     })}
+
+    //Mnaager questions
 
     const doManagerQuestions = () =>{
         inquirer.prompt([
@@ -74,6 +78,8 @@ const doMenuQuestions = () => {
         })
     }
 
+    //engineer questions
+
     const doEngineerQuestions = () =>{
         inquirer.prompt([
             {
@@ -108,6 +114,8 @@ const doMenuQuestions = () => {
         })
     }
 
+
+    //intern questions
     const doInternQuestions = () =>{
         inquirer.prompt([
             {

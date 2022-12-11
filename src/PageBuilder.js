@@ -4,6 +4,8 @@ const Manager = require('../lib/Manager');
 const Engineer = require('../lib/Engineer');
 const Intern = require('../lib/Intern');
 
+//starter code of HTML for generating webpage
+
 const BuildTeamPage = (managers,engineers,interns) =>{
     let html = fs.readFileSync('./template/index.html', 'utf8');
     if(html){

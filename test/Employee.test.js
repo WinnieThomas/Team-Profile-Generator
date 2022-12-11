@@ -15,6 +15,8 @@ describe ("Employee",() =>{
         expect(Obj.name).toEqual(name);
         expect(Obj.email).toEqual(email);
 
+        //check whether the code returns expected values
+
        expect(Obj.getId()).toEqual(id);
         expect(Obj.getName()).toEqual(name);
         expect(Obj.getEmail()).toEqual(email);
